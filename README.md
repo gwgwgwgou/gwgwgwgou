@@ -31,8 +31,9 @@ I'm a software engineer with hands-on experience in mobile, web, and desktop app
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2 id="find-me-around-the-web-">Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a></h2>
+<h2 id="find-me-around-the-web-">Find me around the web 🌎: 
+  <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/gwgwgwgou/gwgwgwgou/main/banner2.png"></h2>
 <ul>
-<a href="https://www.linkedin.com/in/georgia-stefania-gogou/">LinkedIn</a>
+  <a target="_blank" href="https://www.linkedin.com/in/georgia-stefania-gogou/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"></a>
 </ul>
 <hr>
