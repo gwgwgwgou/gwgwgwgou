@@ -33,6 +33,6 @@ I'm a software engineer with hands-on experience in mobile, web, and desktop app
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2 id="find-me-around-the-web-">Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a></h2>
 <ul>
-<a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/georgia-stefania-gogou/">LinkedIn</a>
 </ul>
 <hr>
