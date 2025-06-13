@@ -1,5 +1,5 @@
 <h1 id="hi-im-monica-">Hi, I’m Gogo 👋🏻 👩🏻‍💻</h1>
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Gogo Gogou - software engineer, alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/gwgwgwgou/gwgwgwgou/main/banner.png" alt="banner that says Gogo Gogou - software engineer, alongside a cartoon illustration of Gogo" width="600">
 I'm a software engineer with hands-on experience in mobile, web, and desktop application development. I’m passionate about clean code, elegant design, and building web and mobile applications that are both functional and user-friendly. I love learning new technologies, collaborating with others, and solving real-world problems through software. I’m constantly expanding my knowledge of modern development tools and best practices
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
