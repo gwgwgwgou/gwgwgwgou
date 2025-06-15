@@ -1,6 +1,6 @@
 <h1 id="hi-im-monica-">Hi, I’m Gogo 👋🏻 👩🏻‍💻</h1>
 <img src="https://raw.githubusercontent.com/gwgwgwgou/gwgwgwgou/main/banner.png" alt="banner that says Gogo Gogou - software engineer, alongside a cartoon illustration of Gogo" width="600">
-I'm a software engineer with hands-on experience in mobile, web, and desktop application development. I’m passionate about clean code, elegant design, and building web and mobile applications that are both functional and user-friendly. I love learning new technologies, collaborating with others, and solving real-world problems through software. I’m constantly expanding my knowledge of modern development tools and best practices
+<p>I'm a software engineer with hands-on experience in mobile, web, and desktop application development. I’m passionate about clean code, elegant design, and building web and mobile applications that are both functional and user-friendly. I love learning new technologies, collaborating with others, and solving real-world problems through software. I’m constantly expanding my knowledge of modern development tools and best practices
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -32,7 +32,8 @@ I'm a software engineer with hands-on experience in mobile, web, and desktop app
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2 id="find-me-around-the-web-">Find me around the web 🌎: 
-  <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/gwgwgwgou/gwgwgwgou/main/banner2.png"></h2>
+  <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/gwgwgwgou/gwgwgwgou/main/banner2.png">
+<img align="right" width="150" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndheGc3cWN4MWp2dGU1ZTk5NWJpN3llOHMzaWVmZ3VrZjdzbnQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3cvEqpGbE6QA4FVkjV/giphy.gif"></h2>
 <ul>
   <a target="_blank" href="https://www.linkedin.com/in/georgia-stefania-gogou/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"></a>
 </ul>
